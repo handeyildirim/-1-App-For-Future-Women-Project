@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,7 +13,7 @@ import com.google.firebase.auth.FirebaseUser;
 import java.util.ArrayList;
 
 /**
- * Created by besteburhan on 1.10.2017.
+ * Created by handeyildirim on 1.10.2017.
  */
 
 public class Adapter extends BaseAdapter{
