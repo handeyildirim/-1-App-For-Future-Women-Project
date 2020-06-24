@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by besteburhan on 4.8.2017.
+ * Created by handeyildirim on 4.8.2017.
  */
 
 public class SectionsPageAdapter extends FragmentPagerAdapter{
