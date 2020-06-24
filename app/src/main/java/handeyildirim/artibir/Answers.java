@@ -1,7 +1,7 @@
 package handeyildirim.artibir;
 
 /**
- * Created by besteburhan on 15.9.2017.
+ * Created by handeyildirim on 15.9.2017.
  */
 
 public class Answers {
