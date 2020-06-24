@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -30,7 +30,7 @@ import static android.app.Activity.RESULT_OK;
 import static android.content.Intent.ACTION_VIEW;
 
 /**
- * Created by besteburhan on 4.8.2017.
+ * Created by handeyildirim on 4.8.2017.
  */
 
 public class TabAskQuestionFragment extends Fragment {
