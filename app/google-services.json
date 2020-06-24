@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:567015807201:android:15a36142f3e9af8a",
         "android_client_info": {
-          "package_name": "besteburhan.artibir"
+          "package_name": "handeyildirim.artibir"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "567015807201-6030kuuaepm28ee833bng13hab71o3oc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "besteburhan.artibir",
+            "package_name": "handeyildirim.artibir",
             "certificate_hash": "bd0b14a392d02a5342fc1f6f920d6553e688900f"
           }
         },
