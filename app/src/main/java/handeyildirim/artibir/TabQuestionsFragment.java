@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import static com.google.android.gms.cast.CastRemoteDisplayLocalService.startService;
 
 /**
- * Created by besteburhan on 4.8.2017.
+ * Created by handeyildirim on 4.8.2017.
  */
 
 public class TabQuestionsFragment extends Fragment{
