@@ -1,9 +1,9 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import com.google.android.gms.maps.model.LatLng;
 
 /**
- * Created by besteburhan on 15.9.2017.
+ * Created by handeyildirim on 15.9.2017.
  */
 
 public class QuestionLocation {
