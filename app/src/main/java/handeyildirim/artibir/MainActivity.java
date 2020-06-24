@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.app.ActionBar;
 import android.content.Intent;
@@ -46,9 +46,9 @@ import org.json.JSONObject;
 
 import java.util.Arrays;
 
-import static besteburhan.artibir.R.id.editTextPassword;
-import static besteburhan.artibir.R.id.imageView;
-import static besteburhan.artibir.R.id.start;
+import static handeyildirim.artibir.R.id.editTextPassword;
+import static handeyildirim.artibir.R.id.imageView;
+import static handeyildirim.artibir.R.id.start;
 import static com.bumptech.glide.Glide.with;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
