@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "567015807201",
+    "firebase_url": "https://arti-bir-422cf.firebaseio.com",
+    "project_id": "arti-bir-422cf",
+    "storage_bucket": "arti-bir-422cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567015807201:android:15a36142f3e9af8a",
+        "android_client_info": {
+          "package_name": "besteburhan.artibir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567015807201-6030kuuaepm28ee833bng13hab71o3oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "besteburhan.artibir",
+            "certificate_hash": "bd0b14a392d02a5342fc1f6f920d6553e688900f"
+          }
+        },
+        {
+          "client_id": "567015807201-4b9fgldvibendesclk1r0rukhino55jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNKd8hOvhsK5JDDIvnrbaJfwNO0sct4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567015807201-4b9fgldvibendesclk1r0rukhino55jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
