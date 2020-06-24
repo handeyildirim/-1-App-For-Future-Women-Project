@@ -1,2 +1,3 @@
 # -1-App-For-Future-Women-Project
 One of the biggest communication company of Turkey called Turkcell organized a competition to choose 10 talented students from different part of the country who interested in coding on Android Studio. For this project, I found an idea and create an Android application used by students in any university campus for helping and communicate with each other. Students can change the distances according to how far away they want to talk people. In this application, it is also possible if they want to share some pictures or their own profile with each other. This application was kind of a social media. With this application, I became the finalist in the competition.
+This project was a team-project which made with Beste Burhan.
