@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
