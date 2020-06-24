@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by besteburhan on 4.8.2017.
+ * Created by handeyildirim on 4.8.2017.
  */
 
 public class TabMyQuestionsFragment extends Fragment {
