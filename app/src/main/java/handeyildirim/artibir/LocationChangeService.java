@@ -1,5 +1,5 @@
 
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.*;
 import android.app.Service;
