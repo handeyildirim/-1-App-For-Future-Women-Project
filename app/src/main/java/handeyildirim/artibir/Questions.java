@@ -1,4 +1,4 @@
-package besteburhan.artibir;
+package handeyildirim.artibir;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -6,7 +6,7 @@ import android.os.Parcelable;
 import com.google.android.gms.maps.model.LatLng;
 
 /**
- * Created by besteburhan on 15.9.2017.
+ * Created by handeyildirim on 15.9.2017.
  */
 
 public class Questions implements Parcelable {
